@@ -1,0 +1,13 @@
+{
+  "appId": "com.puzzleceria.app",
+  "appName": "Puzzle Ceria",
+  "webDir": "dist",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "allowMixedContent": false,
+    "backgroundColor": "#FFFBF0"
+  }
+}
